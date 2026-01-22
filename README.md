@@ -17,6 +17,7 @@ Estudante de **Ciência da Computação** focado em construir soluções eficien
 - 🎓 Graduando em Ciência da Computação na UnDF.
 - 📖 Aprimorando técnicas de leitura focada para dominar bibliotecas e frameworks.
 - 🏴‍☠️ Entusiasta de animes (especialmente One Piece).
+- 💻 Cursando o CS50's Introduction to Computer Science (Edx)
 
 ---
 
